@@ -1,4 +1,6 @@
 # JavaScript Load Image
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCydrickT-Osedea%2FJavaScript-Load-Image.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FCydrickT-Osedea%2FJavaScript-Load-Image?ref=badge_shield)
+
 
 > A JavaScript library to load and transform image files.
 
@@ -1059,6 +1061,9 @@ loadImage.parseMetaData(
 
 The JavaScript Load Image library is released under the
 [MIT license](https://opensource.org/licenses/MIT).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FCydrickT-Osedea%2FJavaScript-Load-Image.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FCydrickT-Osedea%2FJavaScript-Load-Image?ref=badge_large)
 
 ## Credits
 
